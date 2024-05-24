@@ -1,5 +1,5 @@
-# RunningBus_in_C
-Running bus in C programmin using C Graphisc. 
+# Running Bus inC
+Running bus in C programming using C Graphics. 
 
 <h3>Output:</h3>
 
